@@ -23,7 +23,7 @@
         android:id="@+id/textView"
         android:layout_width="179dp"
         android:layout_height="38dp"
-        android:text="Procedimiento"
+        android:text="P0"
         android:textColor="#303F9F"
         android:textSize="24sp"
         android:textStyle="bold"
